@@ -1,0 +1,90 @@
+body {
+  padding-top: 65px;
+  font-family: 'heebo', 'Lato', sans-serif;
+}
+
+/*add padding around links and logo*/
+.nav-style {
+    padding-top: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 12px;
+}
+/*style the navigation*/
+.navbar{
+  background-color: white;
+  border-color: #468DCB;
+}
+
+nav a {
+    color: #468DCB;
+}
+
+/*.navbar-default .navbar-nav .active a, .navbar-default .navbar-nav .active a:focus, .navbar-default .navbar-nav .active a:hover {
+    color: #555;
+    background-color: white;
+}*/
+
+.nav-pills li.active a, .nav-pills li.active a:hover, .nav-pills li.active a:focus {
+    color: white;
+    background-color: #468DCB;
+
+}
+
+/*set color and allignment of text within jumpotron and add background image*/
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(../img/brain-1728449.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    height: 500px;
+    color: white;
+    text-align: center;
+
+}
+
+.jumbotron img {
+      opacity: 0.5;
+}
+
+
+.jumbotron p{
+margin-right: 20%;
+margin-left: 20%;
+
+}
+
+
+
+
+/*spacing between rows*/
+.container {
+  padding-top: 30px;
+}
+
+
+/*button styling*/
+.btn {
+  background-color: #66CCFF;
+  border: none;
+  color: #fff;
+}
+
+.btn:hover{
+  background-color: #468DCB;
+  border: none;
+  color: #fff;
+}
+
+/**/
+
+/*.footer {
+  padding-right: 15px;
+  padding-left: 15px;
+}*/
+
+.footer {
+margin-top: 25px;
+  padding-top: 50px;
+  border-top: 1px solid  #66CCFF;
+}
