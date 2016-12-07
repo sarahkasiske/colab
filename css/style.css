@@ -34,20 +34,27 @@ nav a {
 /*set color and allignment of text within jumpotron and add background image*/
 .jumbotron {
     margin-bottom: 0px;
-    background-image: url(../img/Main-Image-home.jpg);
     background-position: 0% 25%;
     background-size: cover;
     height: 500px;
     color: white;
     text-align: center;
-
 }
 
-
-.jumbotron img {
-      opacity: 0.5;
+.team {
+      background-image: url(../img/brainstorm2.jpg);
+}
+.research{
+      background-image: url(../img/research2.jpg);
 }
 
+.process {
+      background-image: url(../img/Process.jpg);
+}
+
+.home{
+      background-image: url(../img/Main-Image-home.jpg);
+}
 
 .jumbotron p{
 margin-right: 20%;
