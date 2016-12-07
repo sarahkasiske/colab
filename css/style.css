@@ -13,11 +13,11 @@ body {
 /*style the navigation*/
 .navbar{
   background-color: white;
-  border-color: #468DCB;
+  border-color: #16a88e;
 }
 
 nav a {
-    color: #468DCB;
+    color: #16a88e;
 }
 
 /*.navbar-default .navbar-nav .active a, .navbar-default .navbar-nav .active a:focus, .navbar-default .navbar-nav .active a:hover {
@@ -27,7 +27,7 @@ nav a {
 
 .nav-pills li.active a, .nav-pills li.active a:hover, .nav-pills li.active a:focus {
     color: white;
-    background-color: #468DCB;
+    background-color: #16a88e;
 
 }
 
@@ -83,7 +83,14 @@ margin-left: 20%;
 }*/
 
 .footer {
-margin-top: 25px;
-  padding-top: 50px;
-  border-top: 1px solid  #66CCFF;
+  margin-top: 25px;
+  padding-top: 25px;
+  border-top: 1px solid  #16a88e;
+  height: 100px;
+}
+
+.footer img {
+  image- height: 60px;
+
+  padding-left: 20px;
 }
