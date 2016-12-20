@@ -56,6 +56,9 @@ nav a {
       background-image: url(../img/Main-Image-home.jpg);
 }
 
+.gallery {
+    background-image: url(../img/brainstorm3.jpg);
+}
 .jumbotron p{
 margin-right: 20%;
 margin-left: 20%;
