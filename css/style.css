@@ -42,22 +42,22 @@ nav a {
 }
 
 .team {
-      background-image: url(../img/brainstorm2.jpg);
+      background-image: url(https://interactive.miami.edu/onahighnote/img/brainstorm2.jpg);
 }
 .research{
-      background-image: url(../img/research2.jpg);
+      background-image: url(https://interactive.miami.edu/onahighnote/img/research2.jpg);
 }
 
 .process {
-      background-image: url(../img/Process.jpg);
+      background-image: url(https://interactive.miami.edu/onahighnote/img/process.jpg);
 }
 
 .home{
-      background-image: url(../img/Main-Image-home.jpg);
+      background-image: url(https://interactive.miami.edu/onahighnote/img/main-image-home.jpg);
 }
 
 .gallery {
-    background-image: url(../img/brainstorm3.jpg);
+    background-image: url(https://interactive.miami.edu/onahighnote/img/brainstorm3.jpg);
 }
 .jumbotron p{
 margin-right: 20%;
@@ -100,7 +100,6 @@ margin-left: 20%;
 }
 
 .footer img {
-  image- height: 60px;
-
+  max-height: 60px;
   padding-left: 20px;
 }
